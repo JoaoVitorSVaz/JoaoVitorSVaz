@@ -1,6 +1,8 @@
 ### Hi I'm João 
 
-![giphy (1)](https://user-images.githubusercontent.com/57420463/127535633-6ff20843-b42f-4e7f-a9f4-32176bdc3e75.gif)
+
+
+
 
 
  <div>
