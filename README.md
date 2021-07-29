@@ -1,4 +1,4 @@
-### Hi I'm Johnny (or João)
+### Hi I'm João 
 
  <div>
   <a href="https://github.com/joaovitorsvaz">
@@ -18,9 +18,3 @@
   
   ##
  
-<div> 
- 
- 
-
- 
-</div>
